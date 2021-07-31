@@ -1,0 +1,36 @@
+﻿Esimerkki läpäisy
+
+
+1. Go north, ota “burana”
+2. Tapa vihollinen
+3. Go east, tapa vihollinen
+4. Go west, tapa vihollinen
+5. Tietyissä alueissa syntyy uudelleen heikkoja vihollisia(nimessä vain eka kirjain isolla) kun menet niihin uudestaan. Kun saavutat level 2(vaatii 9 xp) pystyt tappamaan ensimmäisen(ennen "RAGEWALKER") osion heikkoja vihollisia ensimmäisellä lyönnillä joten voit tällä tavoin varmasti saavuttaa korkean levelin heti alkuun mutta se on todella työläistä ja näkyy pistemäärässä peliä voittaessa
+6. Mene paikkaan The Mall
+7. Go north, tapa "RAGEWALKER, ota bandage
+8. Suunta north on nyt auki, mene sinne
+9. Go north, ota “white pill”
+10. Check health, käytä tarvittaessa jonkun esineistäsi
+11. Tapa vihollinen
+12. Go south
+13. Go east, tapa vihollinen, olet nyt level 3 jos tapoit 3 heikkoa vastustajaa ensimmäisessä osiossa ja onnistuit tappamaan “RAGEWALKER”
+14. Go north, käytä esineitäsi jos tarvitset
+15. Tapa “MORDATH” ja ota “medical kit”
+16. Go north
+17. Go west, ota “vodka bottle”, tapa vihollinen
+18. Go east
+19. Go east, tapa vihollinen
+20. Go west
+21. Go east, tapa vihollinen, olet nyt level 4
+22. Go north
+23. Go east, käytä esineitä tarpeen mukaan, tapa “SKINRENDER”, ota “sleep dart”
+24. Go west
+25. Go south, tapa vihollinen, mene edestakaisin(joko north/south tai west/east) 4 kertaa kunnes olet level 5
+26. Mene paikkaan The Bunker
+27. Go north
+28. Use “sleep dart” tämä noin puolittaa vastustajan hyökkäysvoiman
+29.  Tapa “CORPSEBREATH”, ota key
+30. Go south
+31. Go west
+32. Go north
+33. Voitit pelin!, pistemäärä lasketaan experience*200/kierrosmäärä

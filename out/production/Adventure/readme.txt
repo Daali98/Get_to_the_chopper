@@ -1,0 +1,1 @@
+﻿Peliä on suunniteltu pelattavaksi AdventureTextUI käyttöliittymällä
